@@ -31,11 +31,15 @@ When I click on the "New Note" button in the navigation at the top of the page, 
 **Video Walkthrough:** 
 
 **Screenshots:**<br>
+<br>
 Landing Page:<br> ![landing page](images/landingpage.png)<br>
 Demonstrates landing page with link to a notes page<br>
+<br>
 
 Notes Page:<br> ![created notes](images/notessaved.png)<br>
 Demonstrates existing notes in left-hand column and empty fields to enter a new note title and text in the right-hand column
+<br>
 
 New Note Page:<br> ![new note](images/saveandclear.png)<br>
 Demonstrates the "save note" and "clear form" buttons for a newly created note in the navigation bar
+<br>
