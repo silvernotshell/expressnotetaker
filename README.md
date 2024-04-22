@@ -1,6 +1,6 @@
 # Express.js Note Taker 
 
-**Description:** Note Taker application that can be used to write and save notes. This application utilizes Express.js will save and retrieve note data from a JSON file.
+**Description:** Note Taker application that can be used to write and save notes. This application utilizes Express.js and will save and retrieve note data from a JSON file.
 
 **User Story:** As a small business owner, I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
 
