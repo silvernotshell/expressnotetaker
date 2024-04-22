@@ -1,1 +1,13 @@
-[]
+[
+  8,
+  {
+    "title": "Create First Note",
+    "text": "Create your first note here",
+    "id": 6
+  },
+  {
+    "title": "Create Second Note",
+    "text": "Create your second note here",
+    "id": 7
+  }
+]
