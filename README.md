@@ -6,11 +6,17 @@
 
 **Acceptance Criteria:** <br>
 Given a note-taking application...<br>
+<br>
 When I open the Note Taker, then I am presented with a landing page with a link to a notes page.<br>
+<br>
 When I click on the link to the notes page, then I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.<br>
+<br>
 When I enter a new note title and the note’s text, then a "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page.<br>
+<br>
 When I click on the Save button, then the new note I have entered is saved and appears in the left-hand column with the other existing notes and the buttons in the navigation disappear.<br>
+<br>
 When I click on an existing note in the list in the left-hand column, then that note appears in the right-hand column and a "New Note" button appears in the navigation.<br>
+<br>
 When I click on the "New Note" button in the navigation at the top of the page, then I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears.<br>
 
 **Usage Instructions:** <br>
