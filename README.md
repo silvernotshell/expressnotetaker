@@ -31,7 +31,6 @@ When I click on the "New Note" button in the navigation at the top of the page, 
 **Video Walkthrough:** 
 
 **Screenshots:**<br>
-<br>
 Landing Page:<br> ![landing page](images/landingpage.png)<br>
 Demonstrates landing page with link to a notes page<br>
 <br>
