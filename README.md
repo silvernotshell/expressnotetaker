@@ -28,7 +28,7 @@ When I click on the "New Note" button in the navigation at the top of the page, 
 
 **Website Link:** 
 
-**Video Walkthrough:** 
+**Video Walkthrough:** https://youtu.be/c6z-P6brhSU?si=eLe0u7D_UmZn5Go1
 
 **Screenshots:**<br>
 Landing Page:<br> ![landing page](images/landingpage.png)<br>
